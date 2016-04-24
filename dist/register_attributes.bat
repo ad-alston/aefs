@@ -1,0 +1,1 @@
+java -jar AEFSKeygen.jar -register_attributes %1 -params_path aefs_pp.key -msk_path aefs_msk.key

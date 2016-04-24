@@ -1,0 +1,1 @@
+java -jar AEFSKeygen.jar -new_private_key %1 -key_path %2 -params_path aefs_pp.key -msk_path aefs_msk.key
